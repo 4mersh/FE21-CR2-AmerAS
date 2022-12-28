@@ -1,0 +1,17 @@
+@import "nav";
+@import "End";
+@import "Media";
+.Date {
+    color: gray;
+    display: flex;
+    justify-content: end;
+    flex-wrap: wrap;
+    margin-top: 30px;
+    margin-right: 50px;
+}
+
+.first {
+    background-image: linear-gradient(black, rgb(62, 20, 20));
+    color: white;
+    font-size: xx-large;
+}
